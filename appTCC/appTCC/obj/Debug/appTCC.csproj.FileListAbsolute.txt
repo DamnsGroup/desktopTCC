@@ -1,0 +1,9 @@
+C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\bin\Debug\appTCC.exe.config
+C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\bin\Debug\appTCC.exe
+C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\bin\Debug\appTCC.pdb
+C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\obj\Debug\appTCC.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\obj\Debug\appTCC.Form1.resources
+C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\obj\Debug\appTCC.Properties.Resources.resources
+C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\obj\Debug\appTCC.csproj.GenerateResource.Cache
+C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\obj\Debug\appTCC.exe
+C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\obj\Debug\appTCC.pdb
