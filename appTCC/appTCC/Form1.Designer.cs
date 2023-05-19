@@ -28,39 +28,39 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txt_email = new System.Windows.Forms.TextBox();
+            this.txt_pass = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
-            // textBox1
+            // txt_email
             // 
-            this.textBox1.BackColor = System.Drawing.Color.White;
-            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.ForeColor = System.Drawing.SystemColors.ScrollBar;
-            this.textBox1.Location = new System.Drawing.Point(860, 469);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(352, 55);
-            this.textBox1.TabIndex = 2;
-            this.textBox1.Text = "Email";
+            this.txt_email.BackColor = System.Drawing.Color.White;
+            this.txt_email.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txt_email.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt_email.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.txt_email.Location = new System.Drawing.Point(860, 469);
+            this.txt_email.Multiline = true;
+            this.txt_email.Name = "txt_email";
+            this.txt_email.Size = new System.Drawing.Size(352, 55);
+            this.txt_email.TabIndex = 2;
+            this.txt_email.Text = "Email";
             // 
-            // textBox2
+            // txt_pass
             // 
-            this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.ForeColor = System.Drawing.SystemColors.ScrollBar;
-            this.textBox2.Location = new System.Drawing.Point(860, 578);
-            this.textBox2.Multiline = true;
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(352, 55);
-            this.textBox2.TabIndex = 3;
-            this.textBox2.Text = "Password";
+            this.txt_pass.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txt_pass.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt_pass.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.txt_pass.Location = new System.Drawing.Point(860, 578);
+            this.txt_pass.Multiline = true;
+            this.txt_pass.Name = "txt_pass";
+            this.txt_pass.Size = new System.Drawing.Size(352, 55);
+            this.txt_pass.TabIndex = 3;
+            this.txt_pass.Text = "Password";
             // 
             // button1
             // 
@@ -74,15 +74,7 @@
             this.button1.TabIndex = 4;
             this.button1.Text = "Login";
             this.button1.UseVisualStyleBackColor = false;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::appTCC.Properties.Resources.WhatsApp_Image_2023_05_05_at_16_34_32;
-            this.pictureBox1.Location = new System.Drawing.Point(-156, -4);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(1440, 1024);
-            this.pictureBox1.TabIndex = 5;
-            this.pictureBox1.TabStop = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
@@ -107,6 +99,15 @@
             this.button2.Text = "Forgot password?";
             this.button2.UseVisualStyleBackColor = true;
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::appTCC.Properties.Resources.WhatsApp_Image_2023_05_05_at_16_34_32;
+            this.pictureBox1.Location = new System.Drawing.Point(-156, -4);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(1440, 1024);
+            this.pictureBox1.TabIndex = 5;
+            this.pictureBox1.TabStop = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -115,8 +116,8 @@
             this.ClientSize = new System.Drawing.Size(1424, 985);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txt_pass);
+            this.Controls.Add(this.txt_email);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.pictureBox1);
             this.Name = "Form1";
@@ -129,8 +130,8 @@
         }
 
         #endregion
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txt_email;
+        private System.Windows.Forms.TextBox txt_pass;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label1;

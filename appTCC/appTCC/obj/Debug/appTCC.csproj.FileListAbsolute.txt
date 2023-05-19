@@ -7,3 +7,5 @@ C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\obj\Debug\appTCC.Properties.R
 C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\obj\Debug\appTCC.csproj.GenerateResource.Cache
 C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\obj\Debug\appTCC.exe
 C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\obj\Debug\appTCC.pdb
+C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\obj\Debug\appTCC.Form2.resources
+C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\bin\Debug\MySql.Data.dll
