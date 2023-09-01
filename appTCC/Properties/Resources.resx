@@ -118,47 +118,53 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Rectangle 20" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rectangle 20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="WhatsApp Image 2023-05-05 at 16.34.32" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\WhatsApp Image 2023-05-05 at 16.34.32.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Ícone - Sair" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ícone - Sair.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Ícone - Home (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ícone - Home (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Movimento Detectado_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Movimento Detectado_.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Ícone - Home" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ícone - Home.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="WhatsApp Image 2023-05-10 at 18.17.42" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\WhatsApp Image 2023-05-10 at 18.17.42.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="My home1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\My home1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Ícone - Energia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ícone - Energia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Registro Atual_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Registro Atual_.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Temperatura_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Temperatura_.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Ícone - Fuego" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ícone - Fuego.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Ícone - Configurações" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ícone - Configurações.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Sensor de proximidade" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sensor de proximidade.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Cômodo_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Cômodo_.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Ícone - Home" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ícone - Home.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Temperatura_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Temperatura_.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="GAS (1) 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\GAS (1) 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Sensor de proximidade" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Sensor de proximidade.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Ícone - Sair" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ícone - Sair.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ícone - Fuego (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ícone - Fuego (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Group" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Group.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cômodo_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cômodo_.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vazamento_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vazamento_.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ícone - Pesquisa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ícone - Pesquisa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Sensor de incêndio" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Sensor de incêndio.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -169,17 +175,32 @@
   <data name="Situação de Risco_ (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Situação de Risco_ (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Ícone - Energia" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ícone - Energia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Rectangle 20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rectangle 20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ícone - Configurações" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ícone - Configurações.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ícone - Vídeo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ícone - Vídeo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Situação de Risco_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Situação de Risco_.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Rectangle 22" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rectangle 22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Tela de Login" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tela de Login.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rectangle 3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rectangle 3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="download" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\download.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gas2 (1) 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gas2 (1) 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="My home" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\My home.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="MicrosoftTeams-image" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\MicrosoftTeams-image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -187,19 +208,31 @@
   <data name="Gás" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Gás.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Ícone - Energia (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ícone - Energia (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sensor de incêndio (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sensor de incêndio (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="WhatsApp Image 2023-05-05 at 16.18.08" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\WhatsApp Image 2023-05-05 at 16.18.08.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="My home" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\My home.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="WhatsApp Image 2023-05-10 at 18.17.42" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WhatsApp Image 2023-05-10 at 18.17.42.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Vazamento_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Vazamento_.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Energia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Energia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Ícone - Pesquisa" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ícone - Pesquisa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="My home1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\My home1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rectangle 22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rectangle 22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ícone - Vídeo (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ícone - Vídeo (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

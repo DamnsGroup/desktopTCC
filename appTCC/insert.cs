@@ -56,7 +56,7 @@ namespace appTCC
         {
             return this.reg_eletrica_cod;
         }
-
+        
         public void insert_dados()
         {
 
@@ -69,6 +69,43 @@ namespace appTCC
                 this.fecharconexao();
             }
         }
+        public void insert_dados_incendio()
+        {
 
+            string mSQL = "insert into incendio (tempo, temperatura)values('" + getTempo().ToString("yyyy-MM-dd HH:m") + "', '" + getReg_incendio() + "')";
+
+            if (this.abriconexao() == true)
+            {
+                MySqlCommand cmd = new MySqlCommand(mSQL, conectar);
+                cmd.ExecuteNonQuery();
+                this.fecharconexao();
+            }
+        }
+
+        public void insert_dados_gas()
+        {
+
+            string mSQL = "insert into gas (tempo, deteccao)values('" + getTempo().ToString("yyyy-MM-dd HH:m") + "', '" + getReg_gas() + "')";
+
+            if (this.abriconexao() == true)
+            {
+                MySqlCommand cmd = new MySqlCommand(mSQL, conectar);
+                cmd.ExecuteNonQuery();
+                this.fecharconexao();
+            }
+        }
+
+        /*public void update_dados()
+        {
+
+            string mSQL = "update proximidade set tempo = '"+getTempo()+"', deteccao = '"+getReg_proximidade()+" where co";
+
+            if (this.abriconexao() == true)
+            {
+                MySqlCommand cmd = new MySqlCommand(mSQL, conectar);
+                cmd.ExecuteNonQuery();
+                this.fecharconexao();
+            }
+        }*/ //Atualizar dados em vez de inserir um monte de dados
     }
 }

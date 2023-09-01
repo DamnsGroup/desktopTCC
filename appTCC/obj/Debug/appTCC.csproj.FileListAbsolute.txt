@@ -9,3 +9,7 @@ C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\obj\Debug\appTCC.exe
 C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\obj\Debug\appTCC.pdb
 C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\obj\Debug\appTCC.Form2.resources
 C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\bin\Debug\MySql.Data.dll
+C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\obj\Debug\appTCC.Form3.resources
+C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\obj\Debug\appTCC.Form4.resources
+C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\obj\Debug\appTCC.Form5.resources
+C:\Users\ds-etim-3.ACAD\Desktop\cake\appTCC\appTCC\obj\Debug\appTCC.Form6.resources

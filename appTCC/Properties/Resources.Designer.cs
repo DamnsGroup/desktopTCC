@@ -83,6 +83,16 @@ namespace appTCC.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Energia {
+            get {
+                object obj = ResourceManager.GetObject("Energia", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Gás {
             get {
                 object obj = ResourceManager.GetObject("Gás", resourceCulture);
@@ -96,6 +106,26 @@ namespace appTCC.Properties {
         internal static System.Drawing.Bitmap GAS__1__1 {
             get {
                 object obj = ResourceManager.GetObject("GAS (1) 1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap gas2__1__1 {
+            get {
+                object obj = ResourceManager.GetObject("gas2 (1) 1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Group {
+            get {
+                object obj = ResourceManager.GetObject("Group", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -123,6 +153,16 @@ namespace appTCC.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Ícone___Energia__1_ {
+            get {
+                object obj = ResourceManager.GetObject("Ícone - Energia (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Ícone___Fuego {
             get {
                 object obj = ResourceManager.GetObject("Ícone - Fuego", resourceCulture);
@@ -133,9 +173,29 @@ namespace appTCC.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Ícone___Fuego__2_ {
+            get {
+                object obj = ResourceManager.GetObject("Ícone - Fuego (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Ícone___Home {
             get {
                 object obj = ResourceManager.GetObject("Ícone - Home", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Ícone___Home__1_ {
+            get {
+                object obj = ResourceManager.GetObject("Ícone - Home (1)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -156,6 +216,26 @@ namespace appTCC.Properties {
         internal static System.Drawing.Bitmap Ícone___Sair {
             get {
                 object obj = ResourceManager.GetObject("Ícone - Sair", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Ícone___Vídeo {
+            get {
+                object obj = ResourceManager.GetObject("Ícone - Vídeo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Ícone___Vídeo__1_ {
+            get {
+                object obj = ResourceManager.GetObject("Ícone - Vídeo (1)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -233,6 +313,16 @@ namespace appTCC.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Rectangle_3 {
+            get {
+                object obj = ResourceManager.GetObject("Rectangle 3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Registro_Atual_ {
             get {
                 object obj = ResourceManager.GetObject("Registro Atual_", resourceCulture);
@@ -246,6 +336,16 @@ namespace appTCC.Properties {
         internal static System.Drawing.Bitmap Sensor_de_incêndio {
             get {
                 object obj = ResourceManager.GetObject("Sensor de incêndio", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Sensor_de_incêndio__1_ {
+            get {
+                object obj = ResourceManager.GetObject("Sensor de incêndio (1)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -276,6 +376,16 @@ namespace appTCC.Properties {
         internal static System.Drawing.Bitmap Situação_de_Risco___1_ {
             get {
                 object obj = ResourceManager.GetObject("Situação de Risco_ (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Tela_de_Login {
+            get {
+                object obj = ResourceManager.GetObject("Tela de Login", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
